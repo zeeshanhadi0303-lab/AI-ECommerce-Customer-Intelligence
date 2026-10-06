@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+
+Untitled.ipynb
+Untitled1.ipynb
+
+app/app.code-workspace
+
+/app.py
+/ecommerce_hackathon.db
+/models/

@@ -1,0 +1,29 @@
+hackaton
+│
+├── app
+│   ├── app.py
+│   ├── ecommerce_hackathon.db
+│   └── models
+│       ├── churn_model.pkl
+│       └── sentiment_model.pkl
+│
+├── models
+│   ├── churn_model.pkl
+│   └── sentiment_model.pkl
+│
+├── notebooks
+│   ├── 02_churn_model.ipynb
+│   ├── 03_deep_learning.ipynb
+│   └── 04_sentiment_analysis.ipynb
+│
+├── ecommerce_hackathon.db
+└── requirements.txt
+
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+

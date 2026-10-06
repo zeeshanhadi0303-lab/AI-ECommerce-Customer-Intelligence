@@ -1,0 +1,10 @@
+[
+  "total_orders",
+  "total_spending",
+  "average_order_value",
+  "days_since_last_order",
+  "return_rate",
+  "average_delivery_days",
+  "age",
+  "membership_type"
+]
